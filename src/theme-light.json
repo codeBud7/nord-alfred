@@ -19,7 +19,7 @@
         "size" : 15,
         "colorSelected" : "#D7DDE9FF",
         "font" : "Hack",
-        "color" : "#D7DDE9FF"
+        "color" : "#4B556AFF"
       },
       "iconPaddingHorizontal" : 6,
       "paddingVertical" : 10,
@@ -27,18 +27,18 @@
     },
     "search" : {
       "paddingVertical" : 10,
-      "background" : "#4B556AFF",
+      "background" : "#E4E8F0FF",
       "spacing" : 8,
       "text" : {
         "size" : 30,
         "colorSelected" : "#000000FF",
         "font" : "Hack",
-        "color" : "#EBEEF4FF"
+        "color" : "#424B5EFF"
       },
       "backgroundSelected" : "#B2D7FFFF"
     },
     "window" : {
-      "color" : "#424B5EFF",
+      "color" : "#D7DDE9FF",
       "paddingHorizontal" : 10,
       "width" : 515,
       "borderPadding" : 0,
@@ -53,9 +53,9 @@
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#D7DDE9FF",
+      "color" : "#EBEEF4FF",
       "thickness" : 5
     },
-    "name" : "Nord"
+    "name" : "Nord Light"
   }
 }
