@@ -1,4 +1,4 @@
-# Nord alfred
+# Nord Alfred
 An arctic, north-bluish clean and elegant Alfred theme
 
 Install
