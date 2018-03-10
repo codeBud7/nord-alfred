@@ -6,10 +6,12 @@ Install
 
 ### Light theme
 <img src="https://github.com/codeBud7/nord-alfred/blob/master/light-sample.png">
+
 [Download](https://github.com/codeBud7/nord-alfred/blob/master/Nord%20Light.alfredappearance)
 
 ### Dark theme
 <img src="https://github.com/codeBud7/nord-alfred/blob/master/dark-sample.png">
+
 [Download](https://github.com/codeBud7/nord-alfred/blob/master/Nord%20Dark.alfredappearance)
 
 Credits
