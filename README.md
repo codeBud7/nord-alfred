@@ -1,9 +1,8 @@
 # Nord Alfred
 An arctic, north-bluish clean and elegant Alfred theme.
 
-Install
+Install ⚙️
 ----------------
-
 ### Light theme
 <img src="https://github.com/codeBud7/nord-alfred/blob/master/light-sample.png">
 
@@ -14,11 +13,11 @@ Install
 
 [Download](https://github.com/codeBud7/nord-alfred/blob/master/Nord%20Dark.alfredappearance)
 
-Credits
+Credits 🙌🏻
 ----------------
 - Font by https://github.com/source-foundry/Hack
 - Color palette by https://github.com/arcticicestudio/nord
 
-License
+License ⚖️
 ----------------
 Apache license 2.0 © Sebastian Puskeiler
