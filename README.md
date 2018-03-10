@@ -14,4 +14,5 @@ Credits
 
 License
 ----------------
+Apache license 2.0 
 Copyright © 2018-present Sebastian Puskeiler
