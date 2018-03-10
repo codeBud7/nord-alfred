@@ -9,8 +9,8 @@ Download and click on https://github.com/codeBud7/nord-alfred/blob/master/Nord.a
 
 Credits
 ----------------
-Font by https://github.com/source-foundry/Hack
-Color palette by https://github.com/arcticicestudio/nord
+- Font by https://github.com/source-foundry/Hack
+- Color palette by https://github.com/arcticicestudio/nord
 
 License
 ----------------
