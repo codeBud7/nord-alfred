@@ -2,6 +2,13 @@
 An arctic, north-bluish clean and elegant Alfred theme.
 Dark and light theme available. 🌚🌝
 
+Prerequisites 🔜
+----------------
+Download and install *Hack* font:
+- [Linux](https://github.com/source-foundry/Hack#linux)
+- [MacOS](https://github.com/source-foundry/Hack#macos)
+- [Windows](https://github.com/source-foundry/Hack#windows)
+
 Install ⚙️
 ----------------
 ### Light theme
