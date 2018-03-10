@@ -3,9 +3,14 @@ An arctic, north-bluish clean and elegant Alfred theme
 
 Install
 ----------------
-Download and click on https://github.com/codeBud7/nord-alfred/blob/master/Nord.alfredappearance
 
-<img src="https://github.com/codeBud7/nord-alfred/blob/master/sample.png">
+### Light theme
+Download and click on https://github.com/codeBud7/nord-alfred/blob/master/Nord%20Light.alfredappearance
+<img src="https://github.com/codeBud7/nord-alfred/blob/master/light-sample.png">
+
+### Dark theme
+Download and click on https://github.com/codeBud7/nord-alfred/blob/master/Nord%20Dark.alfredappearance
+<img src="https://github.com/codeBud7/nord-alfred/blob/master/dark-sample.png">
 
 Credits
 ----------------
